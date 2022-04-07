@@ -1,9 +1,4 @@
-<h1 align="center">Hi <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.joypixels.com%2Fcontent%2Fimages%2F2019%2F06%2Fwaving_hand_sign_1024.gif&f=1&nofb=1"
-     alt="animated waving hand emoji"
-     width="15"
-     height="15" />
-     width="25"
-     height="25" /> , I'm Daniela Tobar</h1> 
+<h1 align="center">Hi 👋, I'm Daniela Tobar</h1> 
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielatob&label=Profile%20views&color=0e75b6&style=flat" alt="danielatob" /> </p>
 
