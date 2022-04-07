@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Daniela Tobar</h1> [Abhishek!](https://abhisheknaidu.tech)
+<h1 align="center">Hi 👋, I'm Daniela Tobar</h1> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.joypixels.com%2Fcontent%2Fimages%2F2019%2F06%2Fwaving_hand_sign_1024.gif&f=1&nofb=1"
+     <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
 <h3 align="center">A passionate Full Stack Developer from Colombia</h3>
 
 
