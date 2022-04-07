@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniela Tobar</h1>
+<h1 align="center">Hi <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> , I'm Daniela Tobar</h1>
 <h3 align="center">A passionate Full Stack Developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielatob&label=Profile%20views&color=0e75b6&style=flat" alt="danielatob" /> </p>
