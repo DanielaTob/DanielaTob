@@ -19,6 +19,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielatob&theme=default" alt="danielatob" /></p>
 
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/1pwqldK51eqyXWJObFHC19?si=1bbad21270014ea8)
+
 
 
 
