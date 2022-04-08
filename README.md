@@ -6,7 +6,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=danielatob&theme=onedark&no-bg=true&no-frame=true)
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-tobar-moreno-77123a217/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-tobar-moreno) 
 
 <h3 align="left">Languages and Tools:</h3>
 
