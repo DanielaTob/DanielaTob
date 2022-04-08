@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>, I'm Daniela Tobar</h1> 
 
 <h3 align="center">A passionate full stack developer from Colombia</h3>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=danielatob&theme=onedark&no-bg=true&no-frame=true) 
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/daniela-tobar-moreno)"/> </p>
+<img  src="https://github-profile-trophy.vercel.app/?username=danielatob&theme=onedark&no-bg=true&no-frame=true"/> </p>
+
+<h3 align="center">Connect with me:</h3> 
+<p align="center">
+<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white", "(https://www.linkedin.com/in/daniela-tobar-moreno)"/> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
