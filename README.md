@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielatob&label=Profile%20views&color=c85853&style=plastic" alt="danielatob" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielatob-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?danielatob=ryo-ma&theme=gruvbox" alt="danielatob" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
