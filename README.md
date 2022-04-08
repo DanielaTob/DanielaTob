@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielatob&label=Profile%20views&color=c85853&style=plastic" alt="danielatob" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielatob&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=danielatob&no-frame=false)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
