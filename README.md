@@ -33,10 +33,9 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielatob&theme=default" alt="danielatob" /> </p>
   
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-  
+
 <p align="center">
-<a href="https://open.spotify.com/user/omnitenebris" target="blank"><img align="center" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" /></a
+<a href="https://open.spotify.com/playlist/1pwqldK51eqyXWJObFHC19?si=ad89bc4bb7c345f5" target="blank"><img align="center" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" /></a
 </p>
 
 
