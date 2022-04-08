@@ -6,7 +6,9 @@
 
 <h3 align="center">Connect with me:</h3> 
 <p align="center">
-<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white", "(https://www.linkedin.com/in/daniela-tobar-moreno)"/> </p>
+<a href="https://www.linkedin.com/in/daniela-tobar-moreno" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a
+</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -31,8 +33,7 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielatob&theme=default" alt="danielatob" /></p>
 
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/1pwqldK51eqyXWJObFHC19?si=1bbad21270014ea8) 
+<p align="center" ><img align="center" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/1pwqldK51eqyXWJObFHC19?si=1bbad21270014ea8" /></p>
 
 
 
