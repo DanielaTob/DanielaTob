@@ -31,11 +31,15 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielatob&show_icons=true&theme=dark&title_color=c85853&text_color=c85853&bg_color=ffddbf&locale=en" alt="danielatob" /></p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielatob&theme=default" alt="danielatob" />
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielatob&theme=default" alt="danielatob" /> </p>
   
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris) 
-
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  
+<p align="center">
+<a href="https://open.spotify.com/user/omnitenebris" target="blank"><img align="center" src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" /></a
 </p>
+
+
 
 
 
