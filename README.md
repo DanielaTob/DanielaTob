@@ -4,9 +4,9 @@
 <p align="center">
 <img  src="https://github-profile-trophy.vercel.app/?username=danielatob&theme=onedark&no-bg=true&no-frame=true"/> </p>
 
-<h3 align="center">Check my portafolio:</h3> 
+<h3 align="center">Check my portfolio:</h3> 
 <p align="center">
-:sparkles: <a href='https://portfolio-daniela-tobar.vercel.app/'>My portfolio</a> :sparkles:
+:sparkles: <a href='https://portfolio-daniela-tobar.vercel.app/'>Portfolio</a> :sparkles:
 </p>
  
 <h3 align="center">Connect with me:</h3> 
