@@ -6,7 +6,7 @@
 <div>
   <p align="center" >
   <img alt="GIF" src="https://i.pinimg.com/originals/40/4f/26/404f2669dea325afd0f7e1024b02d818.gif" /> 
-  <p align="center" > I'm a full stack web developer with experience in projects especially with scrum methodology. 
+  <p align="center" > I'm a frontend developer with experience in projects especially with scrum methodology. 
   <br><br>
   I'm proficient in programming languages such as JavaScript, ReactJS, NodeJS, PHP. As for databases, I know SQL and MongoDB relational databases.
   <br><br>
