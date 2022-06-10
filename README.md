@@ -40,7 +40,6 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielatob&show_icons=true&theme=dark&title_color=c85853&text_color=c85853&bg_color=ffddbf&locale=en" alt="danielatob" /></p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielatob&theme=default" alt="danielatob" /> </p>
   
 
 <p align="center">
