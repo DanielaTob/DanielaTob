@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>, I'm Daniela Tobar</h1> 
 
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate full stack developer from Colombia</h3>
 
 
 <div>
   <p align="center" >
   <img alt="GIF" src="https://i.pinimg.com/originals/40/4f/26/404f2669dea325afd0f7e1024b02d818.gif" /> 
-  <p align="center" > I'm a frontend developer with experience in projects especially with scrum methodology. 
+  <p align="center" > I'm a full stack developer with experience in projects especially with scrum methodology. 
   <br><br>
   I'm proficient in programming languages such as JavaScript, ReactJS, NodeJS, PHP. As for databases, I know SQL and MongoDB relational databases.
   <br><br>
