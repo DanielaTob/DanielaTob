@@ -4,17 +4,12 @@
 
 
 <div>
-  <p align="center" >
+  <div align="center" >
   <img alt="GIF" src="https://i.pinimg.com/originals/40/4f/26/404f2669dea325afd0f7e1024b02d818.gif" /> 
-  <p align="center" > I'm a full stack developer with experience in projects especially with scrum methodology. 
-  <br><br>
+  <p align="" > I'm a full stack developer with experience in projects especially with scrum methodology. 
   I'm proficient in programming languages such as JavaScript, ReactJS, NodeJS, PHP. As for databases, I know SQL and MongoDB relational databases.
-  <br><br>
   <i> Check my portfolio: :sparkles: <a href='https://daniela-tobar-moreno.vercel.app/'>Portfolio</a> :sparkles: </i><br>
-  <br>
   <a href="https://www.linkedin.com/in/daniela-tobar-moreno" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-     badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-  <br><br> 
- 
 <div>
 
 
@@ -34,11 +29,6 @@
 
 <p align="center">
 <img  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img  src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/> <img  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img  src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>  <img  src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/> <img  src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img  src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> </p>
- 
-
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielatob&show_icons=true&title_color=c85853&text_color=c85853&bg_color=ffddbf&locale=en&layout=compact" alt="danielatob" /></p>
-
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielatob&show_icons=true&theme=dark&title_color=c85853&text_color=c85853&bg_color=ffddbf&locale=en" alt="danielatob" /></p>
 
   
 
